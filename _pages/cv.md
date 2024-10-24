@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "CV"
-permalink: /cv/
+title: "个人简历"
+permalink: /个人简历/
 author_profile: true
 redirect_from:
   - /resume
@@ -11,54 +11,32 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* 博士 2024.9-至今, 西北师范大学, 发展与教育心理学（导师：赵鑫教授）
+* 硕士 2021.9-2024.6, 西北师范大学, 应用心理（导师：赵鑫教授）
+* 本科 2017.9-2019.6, 苏州大学, 人力资源管理（自考本科，专转本）
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
+学术论文
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
+科研项目
 ======
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
+
+工作经历
 ======
-* Currently signed in to 43 different slack teams
+* 兰州市第三人民医院, 2021.9-至今，实习
+  * Github University
+  * Duties includes: Updates and improvements to template
+  * Supervisor: The Users
+
+* 赵鑫课题组，科研助理
+  * Github University
+  * Duties included: Merging pull requests
+  * Supervisor: Professor Hub

@@ -21,7 +21,7 @@ repository               : "tyzhang98.github.io/Tyzhang.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png" #头像
+  avatar           : "https://s21.ax1x.com/2024/10/24/pAdvCzn.png" #头像
   name             : "张统一"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"

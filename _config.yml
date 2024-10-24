@@ -16,10 +16,9 @@ author:
   avatar           : "https://s21.ax1x.com/2024/10/24/pAdvCzn.png" #头像
   name             : "张统一"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "兰州.中国"
-  employer         : "西北师范大学心理学院"
-  uri              : "https://xlxy.nwnu.edu.cn/"
+  bio              : "心理学博士在读(预计2027.6毕业)"
+  location         : "西北师范大学,兰州,中国"
+  employer: "[西北师范大学心理学院](https://xlxy.nwnu.edu.cn/)"
   email            : "tyzhang9804@gmail.com" 
 
 
